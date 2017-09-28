@@ -1,0 +1,62 @@
+Update Log
+
+Beta 1.1
+
+- Adjusted the design of the options menu
+
+Beta 1.0
+
+- Released to public! (i.e. to all FHS APES classes)
+
+Alpha 1.4.4
+
+- Corrected description of original game to "Dan Destroyer"
+- Rebalanced general enemy action probabilities
+- Rebalanced certain enemy stats
+
+Alpha 1.4.3
+
+- Made the questions scrollable if the text became too long
+
+Alpha 1.4.2
+
+- Bugfix: Fixed division by zero error that prevented players from advancing past Turn 1
+- Bugfix: Fixed enemy creator not working properly, leading to the previous bug
+- Added new enemy: the Climate Change Denier
+
+Alpha 1.4.1
+
+- Bugfix: Fixed header not loading and rendering properly
+
+Alpha 1.4
+
+- Bugfix: Added method to set enemy attack and heal strength increases
+- Added almost 90 new questions relating to AP Environmental science
+- Removed sample question (except the one relating to Mrs. Seeber's favorite Disney character)
+- Added 5 new enemies (and removed sample enemies)
+- Added header to game
+
+Alpha 1.3.1
+
+- Rebalanced attack and heal strength increases to be arithmetic, not exponential
+
+Alpha 1.3
+
+- Changed Swing Look and Feel to "Nimbus," with custom theme
+- Rebalanced attack/heal strength increase probabilities
+- Re-enabled cheats for developers
+- Added 'Help' screen
+- Optimized layout of GUIs
+
+Alpha 1.2
+
+- Fixed file I/O system
+- Overhauled enemy, question, and player configuration process
+
+- Alpha 1.1
+
+- First alpha release
+- Two sample enemies: "Daniel" and "Toju"
+- Four sample questions
+- Disabled cheats
+- Removed Herobrine

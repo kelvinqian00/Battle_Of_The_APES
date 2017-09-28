@@ -1,0 +1,90 @@
+<html><u>Battle of the APES: Intro</u>
+
+The objective of 'Battle of the APES is to confront an environmental villain with super strength, 
+super health, and so forth, while all you have is a proverbial hammer. However, by demonstrating your 
+knowledge in the field of Environmental Science, you can strengthen yourself to be more than a match
+against the enemy. Except the enemy is smart and cunning, so...
+
+<u>Controls</u>
+
+Most of the game is played with the mouse. However, there are two keyboard shortcuts: 
+<ul>
+<li>Enter: Press in lieu of clicking the "Continue" button at the bottom. 
+<li>Esc: Brings up the Options menu, where you can save the current turn or exit. 
+</ul>
+<u>Starting Up</u>
+
+The game picks a random enemy for you to fight against. Meanwhile you have the same stats against each 
+enemy, which will force you to use different strategies to fight each one. The only thing you can 
+change is your name, which you enter when you start a new game.
+
+<u>Player and Enemy Stats</u>
+
+You start with a certain maximum amount of hitpoints, an attack strength, and a certain amount you 
+can heal by. The enemy also starts with a certain amount of hitpoints (though unlike the player, they 
+have no upper limit), an attack strength, and a particular heal amount.
+
+The enemy also has a 'super attack' that can inflict significantly more damage than their regular 
+attack, so watch out!
+
+<u>What a Turn Looks Like:</u>
+
+One turn consists of the following:
+<ul>
+<li>You choose an action, e.g. attack the enemy.
+<li>If it's a 'basic action,' you'll see their effects directly.
+<li>If it's an 'advanced action,' you'll have to answer a question; if you answer correctly, you can 
+proceed with said action.
+<li>The enemy makes their move.
+<li>Rinse and repeat.
+</ul>
+<u>Basic Player Actions</u>
+
+There are three basic actions you, as the player, can do: 
+<ul><li>Attack: When you attack, you reduce the enemy's hitpoints by your attack strength, e.g. if 
+your attack strength is 500 and you attack, the enemy has 500 less hitpoints than they started with.
+<li>Heal: When you heal, you increase your own hitpoints by your heal amount, e.g. if your heal 
+amount is 500, then your hitpoints increase by 500 points.
+<li>Random Attack: You deal a random amount of damage, ranging from 0 to twice your regular attack 
+strength.
+</ul>
+
+<u>Advanced Player Actions</u>
+
+There are also three advanced actions you can do: increase your maximum hitpoints cap, increase your 
+attack strength, or increase your heal amount. They are "advanced" because there's an extra step: you 
+have to answer a multiple-choice question correctly in order to level up.
+
+In general, these questions will be actual AP Environmental Science exam questions or be reflective 
+of such questions. Thus if you do not have sufficient knowledge about APES subject matter, you are 
+screwed. If you choose the correct choice (there are 5), you can proceed with the action, such as 
+increasing your attack strength. If you fail, then you cannot and the game proceeds to the enemy's 
+action.
+
+<u>Enemy Actions</u>
+
+The enemy has a variety of actions at their disposal:
+<ul>
+<li>Attack: The enemy will attack the player, reducing the player's hitpoints by a certain amount. 
+Said amount is slightly randomized, but is centered around the enemy's basic attack strength.
+<li>Heal: The enemy will heal and increase the amount of hitpoints they have. Unlike the player, they 
+have no maximum hitpoint cap. Like with their attack, the amount they heal by is slightly random. The 
+probability that they'll heal depends on how close to death (i.e. 0 hitpoints) they are.
+<li>Super Attack: The enemy can inflict this extra-strong attack on the player, which for each villain 
+has a unique name. Other than the greater damage it causes, the super attack is functionally similar 
+to the enemy's basic attack. The chance that they'll inflict the super attack increases the further 
+the game progresses.
+<li>Increase Attack: Occasionally, the enemy will increase the strength of both their regular and super 
+attacks, by the original values of those two stats The chance of this happening increases with how stronger 
+the player is compared to the enemy, e.g. if the player's attack strength is 750, the probability of the 
+enemy doubling their strength is greater if their attack strength is 250 instead of 750.
+<li>Increase Heal Amount: The enemy will occasionally increase the amount they heal by. Just like with 
+doubling attack strength, the increase is by the original heal amount, and the chance of that happening 
+increases if the ratio between the player's and enemy's heal amounts increases.
+</ul>
+<u>Endgame</u>
+
+Obviously, the game ends if either the player or the enemy wins. The player wins if the amount of 
+hitpoints the enemy has reaches 0; the player loses if their hitpoints reach 0.
+
+</html>
